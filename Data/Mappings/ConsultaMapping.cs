@@ -17,6 +17,12 @@ namespace Consultorio.Data.Mappings
             builder.Property(x => x.pacienteId).HasColumnName("id_paciente").IsRequired();
             builder.HasOne(x => x.Paciente).WithMany(x => x.Consultas).HasForeignKey(x => x.pacienteId);
 
+            builder.Property(c => c.profissionalId).HasColumnName("id_profissional").IsRequired();
+            builder.HasOne(c => c.Profissional).WithMany(c => c.Consultas).HasForeignKey(x => x.profissionalId);
+
+            builder.Property(x => x.especialidadeId).HasColumnName("id_especialidade").IsRequired();
+            builder.HasOne(x => x.Especialidade).WithMany(x => x.Consultas).HasForeignKey(x => x.especialidadeId);
+
         }
     }
 }

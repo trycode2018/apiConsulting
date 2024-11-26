@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "Consultorio.Controllers.PacienteController",
+    "Method": "GetAllPacientes",
+    "RelativePath": "api/Paciente/GetAllPacientes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Consultorio.Controllers.PacienteController",
+    "Method": "GetPacienteById",
+    "RelativePath": "api/Paciente/GetPacienteById{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
