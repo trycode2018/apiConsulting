@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\henri\\source\\repos\\Consultorio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|c:\\users\\henri\\source\\repos\\consultorio\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|solutionrelative:controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|c:\\users\\henri\\source\\repos\\consultorio\\repositories\\pacientes\\pacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|solutionrelative:repositories\\pacientes\\pacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|c:\\users\\henri\\source\\repos\\consultorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|c:\\users\\henri\\source\\repos\\consultorio\\repositories\\interfaces\\pacientes\\ipacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|solutionrelative:repositories\\interfaces\\pacientes\\ipacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|c:\\users\\henri\\source\\repos\\consultorio\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|solutionrelative:models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|c:\\users\\henri\\source\\repos\\consultorio\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,44 +15,24 @@
       "RelativeMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|solutionrelative:repositories\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|c:\\users\\henri\\source\\repos\\consultorio\\migrations\\20241120182043_refatorando_bancodados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|solutionrelative:migrations\\20241120182043_refatorando_bancodados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|c:\\users\\henri\\source\\repos\\consultorio\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|solutionrelative:controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|c:\\users\\henri\\source\\repos\\consultorio\\models\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|solutionrelative:models\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|c:\\users\\henri\\source\\repos\\consultorio\\repositories\\interfaces\\pacientes\\ipacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|solutionrelative:repositories\\interfaces\\pacientes\\ipacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|c:\\users\\henri\\source\\repos\\consultorio\\data\\mappings\\profissionalmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|solutionrelative:data\\mappings\\profissionalmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|c:\\users\\henri\\source\\repos\\consultorio\\repositories\\pacientes\\pacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|solutionrelative:repositories\\pacientes\\pacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|c:\\users\\henri\\source\\repos\\consultorio\\models\\profissional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|solutionrelative:models\\profissional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|c:\\users\\henri\\source\\repos\\consultorio\\response\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|solutionrelative:response\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|c:\\users\\henri\\source\\repos\\consultorio\\data\\mappings\\especialidademapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|solutionrelative:data\\mappings\\especialidademapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|c:\\users\\henri\\source\\repos\\consultorio\\models\\profissionalespecialidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|solutionrelative:models\\profissionalespecialidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|c:\\users\\henri\\source\\repos\\consultorio\\models\\especialidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|solutionrelative:models\\especialidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|c:\\users\\henri\\source\\repos\\consultorio\\data\\mappings\\consultamapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|solutionrelative:data\\mappings\\consultamapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|c:\\users\\henri\\source\\repos\\consultorio\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|c:\\users\\henri\\source\\repos\\consultorio\\migrations\\20241114225456_refatorando_banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|solutionrelative:migrations\\20241114225456_refatorando_banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|c:\\users\\henri\\source\\repos\\consultorio\\dtos\\pacientes\\pacientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|solutionrelative:dtos\\pacientes\\pacientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,196 +50,107 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PacienteController.cs",
-              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\Controllers\\PacienteController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PacienteController.cs",
-              "ToolTip": "C:\\Users\\henri\\source\\repos\\Consultorio\\Controllers\\PacienteController.cs",
-              "RelativeToolTip": "Controllers\\PacienteController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T12:14:07.688Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PacienteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\Repositories\\Pacientes\\PacienteRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Pacientes\\PacienteRepository.cs",
-              "ToolTip": "C:\\Users\\henri\\source\\repos\\Consultorio\\Repositories\\Pacientes\\PacienteRepository.cs",
-              "RelativeToolTip": "Repositories\\Pacientes\\PacienteRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T12:05:01.43Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IPacienteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\Repositories\\Interfaces\\Pacientes\\IPacienteRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Interfaces\\Pacientes\\IPacienteRepository.cs",
-              "ToolTip": "C:\\Users\\henri\\source\\repos\\Consultorio\\Repositories\\Interfaces\\Pacientes\\IPacienteRepository.cs",
-              "RelativeToolTip": "Repositories\\Interfaces\\Pacientes\\IPacienteRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T12:02:35.998Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BaseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\Repositories\\BaseRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\BaseRepository.cs",
-              "ToolTip": "C:\\Users\\henri\\source\\repos\\Consultorio\\Repositories\\BaseRepository.cs",
-              "RelativeToolTip": "Repositories\\BaseRepository.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T11:45:01.957Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "IBaseRepository.cs",
               "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\Repositories\\Interfaces\\IBaseRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Interfaces\\IBaseRepository.cs",
               "ToolTip": "C:\\Users\\henri\\source\\repos\\Consultorio\\Repositories\\Interfaces\\IBaseRepository.cs",
               "RelativeToolTip": "Repositories\\Interfaces\\IBaseRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T11:42:41.888Z"
+              "WhenOpened": "2024-11-28T23:33:20.445Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\henri\\source\\repos\\Consultorio\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\henri\\source\\repos\\Consultorio\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "Repositories\\BaseRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwAsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T11:34:17.402Z"
+              "WhenOpened": "2024-11-28T23:18:30.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PacienteController.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\Controllers\\PacienteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PacienteController.cs",
+              "ToolTip": "C:\\Users\\henri\\source\\repos\\Consultorio\\Controllers\\PacienteController.cs",
+              "RelativeToolTip": "Controllers\\PacienteController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAswD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T23:26:46.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PacienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\Repositories\\Pacientes\\PacienteRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Pacientes\\PacienteRepository.cs",
+              "ToolTip": "C:\\Users\\henri\\source\\repos\\Consultorio\\Repositories\\Pacientes\\PacienteRepository.cs",
+              "RelativeToolTip": "Repositories\\Pacientes\\PacienteRepository.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAuwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T23:18:32.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPacienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\Repositories\\Interfaces\\Pacientes\\IPacienteRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\Pacientes\\IPacienteRepository.cs",
+              "ToolTip": "C:\\Users\\henri\\source\\repos\\Consultorio\\Repositories\\Interfaces\\Pacientes\\IPacienteRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\Pacientes\\IPacienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T23:16:37.498Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "20241120182043_refatorando_bancodados.cs",
-              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\Migrations\\20241120182043_refatorando_bancodados.cs",
-              "RelativeDocumentMoniker": "Migrations\\20241120182043_refatorando_bancodados.cs",
-              "ToolTip": "C:\\Users\\henri\\source\\repos\\Consultorio\\Migrations\\20241120182043_refatorando_bancodados.cs",
-              "RelativeToolTip": "Migrations\\20241120182043_refatorando_bancodados.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAQwFcAAAApAAAAAAAAAA==",
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\Response\\Response.cs",
+              "RelativeDocumentMoniker": "Response\\Response.cs",
+              "ToolTip": "C:\\Users\\henri\\source\\repos\\Consultorio\\Response\\Response.cs",
+              "RelativeToolTip": "Response\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T18:20:44.303Z"
+              "WhenOpened": "2024-11-28T23:13:58.543Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ProfissionalEspecialidade.cs",
-              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\Models\\ProfissionalEspecialidade.cs",
-              "RelativeDocumentMoniker": "Models\\ProfissionalEspecialidade.cs",
-              "ToolTip": "C:\\Users\\henri\\source\\repos\\Consultorio\\Models\\ProfissionalEspecialidade.cs",
-              "RelativeToolTip": "Models\\ProfissionalEspecialidade.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\Models\\Paciente.cs",
+              "RelativeDocumentMoniker": "Models\\Paciente.cs",
+              "ToolTip": "C:\\Users\\henri\\source\\repos\\Consultorio\\Models\\Paciente.cs",
+              "RelativeToolTip": "Models\\Paciente.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T18:03:31.551Z"
+              "WhenOpened": "2024-11-28T21:17:29.504Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Consulta.cs",
-              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\Models\\Consulta.cs",
-              "RelativeDocumentMoniker": "Models\\Consulta.cs",
-              "ToolTip": "C:\\Users\\henri\\source\\repos\\Consultorio\\Models\\Consulta.cs",
-              "RelativeToolTip": "Models\\Consulta.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAYwA0AAAA4AAAAAAAAAA==",
+              "Title": "PacienteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\DTOs\\Pacientes\\PacienteDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\Pacientes\\PacienteDTO.cs",
+              "ToolTip": "C:\\Users\\henri\\source\\repos\\Consultorio\\DTOs\\Pacientes\\PacienteDTO.cs",
+              "RelativeToolTip": "DTOs\\Pacientes\\PacienteDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T17:52:24.438Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProfissionalMapping.cs",
-              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\Data\\Mappings\\ProfissionalMapping.cs",
-              "RelativeDocumentMoniker": "Data\\Mappings\\ProfissionalMapping.cs",
-              "ToolTip": "C:\\Users\\henri\\source\\repos\\Consultorio\\Data\\Mappings\\ProfissionalMapping.cs",
-              "RelativeToolTip": "Data\\Mappings\\ProfissionalMapping.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBMAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T16:08:26.546Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ConsultaMapping.cs",
-              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\Data\\Mappings\\ConsultaMapping.cs",
-              "RelativeDocumentMoniker": "Data\\Mappings\\ConsultaMapping.cs",
-              "ToolTip": "C:\\Users\\henri\\source\\repos\\Consultorio\\Data\\Mappings\\ConsultaMapping.cs",
-              "RelativeToolTip": "Data\\Mappings\\ConsultaMapping.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T20:21:40.278Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "EspecialidadeMapping.cs",
-              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\Data\\Mappings\\EspecialidadeMapping.cs",
-              "RelativeDocumentMoniker": "Data\\Mappings\\EspecialidadeMapping.cs",
-              "ToolTip": "C:\\Users\\henri\\source\\repos\\Consultorio\\Data\\Mappings\\EspecialidadeMapping.cs",
-              "RelativeToolTip": "Data\\Mappings\\EspecialidadeMapping.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T22:48:43.559Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Profissional.cs",
-              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\Models\\Profissional.cs",
-              "RelativeDocumentMoniker": "Models\\Profissional.cs",
-              "ToolTip": "C:\\Users\\henri\\source\\repos\\Consultorio\\Models\\Profissional.cs",
-              "RelativeToolTip": "Models\\Profissional.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T20:13:00.621Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Especialidade.cs",
-              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\Models\\Especialidade.cs",
-              "RelativeDocumentMoniker": "Models\\Especialidade.cs",
-              "ToolTip": "C:\\Users\\henri\\source\\repos\\Consultorio\\Models\\Especialidade.cs",
-              "RelativeToolTip": "Models\\Especialidade.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T20:14:33.369Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\henri\\source\\repos\\Consultorio\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAIwBIAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T20:17:22.6Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "20241114225456_refatorando_banco.cs",
-              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\Migrations\\20241114225456_refatorando_banco.cs",
-              "RelativeDocumentMoniker": "Migrations\\20241114225456_refatorando_banco.cs",
-              "ToolTip": "C:\\Users\\henri\\source\\repos\\Consultorio\\Migrations\\20241114225456_refatorando_banco.cs",
-              "RelativeToolTip": "Migrations\\20241114225456_refatorando_banco.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T22:54:57.127Z"
+              "WhenOpened": "2024-11-28T21:17:13.537Z",
+              "EditorCaption": ""
             }
           ]
         }

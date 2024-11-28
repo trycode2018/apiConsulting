@@ -1,6 +1,7 @@
 ﻿using Consultorio.Data;
 using Consultorio.Models;
 using Consultorio.Repositories.Interfaces.Pacientes;
+using Consultorio.Response;
 using Microsoft.EntityFrameworkCore;
 
 namespace Consultorio.Repositories.Pacientes
@@ -12,17 +13,45 @@ namespace Consultorio.Repositories.Pacientes
         {
             _context = context;
         }
-
-        public async Task<IEnumerable<Paciente>> GetAllPaciente()
+        
+        public async Task<Response<IEnumerable<Paciente>>> GetAllPaciente()
         {
-            var pacientes = await _context.Paciente.ToListAsync();
-            return pacientes;
+            Response<IEnumerable<Paciente>> response = new Response<IEnumerable<Paciente>>();
+            try
+            {
+                var pacientes = await _context.Paciente.ToListAsync();
+                response.Data = pacientes;
+                response.Message = "Lista de pacientes";
+                response.Status = true;
+
+                return response;
+            }
+            catch (Exception ex) 
+            {
+                response.Message = ex.Message;
+                response.Status = false;
+                return response;
+            }
         }
 
-        public async Task<Paciente> GetPacienteById(int id)
+        public async Task<Response<Paciente>> GetPacienteById(int id)
         {
-            var paciente = await _context.Paciente.Where(x => x.Id == id).FirstOrDefaultAsync();
-            return paciente;
+            Response<Paciente> response = new Response<Paciente>();
+            try
+            {
+                var paciente = await _context.Paciente.Where(x => x.Id == id).FirstOrDefaultAsync();
+                response.Data = paciente;
+                response.Message = "Paciente encontrado com sucesso!";
+                response.Status = true;
+
+                return response;
+            }
+            catch(Exception err)
+            {
+                response.Message = err.Message;
+                response.Status = false;
+                return response;
+            }
         }
     }
 }

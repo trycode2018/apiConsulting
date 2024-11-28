@@ -1,4 +1,6 @@
-﻿namespace Consultorio.Repositories.Interfaces
+﻿using Consultorio.Response;
+
+namespace Consultorio.Repositories.Interfaces
 {
     public interface IBaseRepository
     {

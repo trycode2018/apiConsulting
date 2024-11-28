@@ -1,6 +1,32 @@
 [
   {
     "ContainingType": "Consultorio.Controllers.PacienteController",
+    "Method": "AddPaciente",
+    "RelativePath": "api/Paciente/AddPaciente",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "paciente",
+        "Type": "Consultorio.DTOs.Pacientes.PacienteDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Consultorio.Response.Response\u00601[[Consultorio.Models.Paciente, Consultorio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Consultorio.Controllers.PacienteController",
     "Method": "GetAllPacientes",
     "RelativePath": "api/Paciente/GetAllPacientes",
     "HttpMethod": "GET",
