@@ -50,5 +50,31 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Consultorio.Controllers.PacienteController",
+    "Method": "UpdatePaciente",
+    "RelativePath": "api/Paciente/UpdatePaciente",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pacienteAtualizar",
+        "Type": "Consultorio.DTOs.Pacientes.PacienteAtualizarDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Consultorio.Response.Response\u00601[[Consultorio.Models.Paciente, Consultorio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   }
 ]

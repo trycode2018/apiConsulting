@@ -63,5 +63,45 @@ namespace Consultorio.Controllers
 
             return Ok(response);
         }
+
+        [HttpPut]
+        [Route("UpdatePaciente")]
+        public async Task<ActionResult<Response<Paciente>>> UpdatePaciente(PacienteAtualizarDTO pacienteAtualizar)
+        {
+            Response<Paciente> resposta = new Response<Paciente>();
+            try
+            {
+                var paciente = await _repository.GetPacienteById(pacienteAtualizar.Id);
+                if (paciente is null) 
+                {
+                    resposta.Message = "Paciente não encontrado!";
+                    resposta.Status = false;
+                    return BadRequest(resposta);
+                }
+
+                var novoPaciente = new Paciente() 
+                {
+                    Nome = pacienteAtualizar.Nome,
+                    Email = pacienteAtualizar.Email,
+                    Cpf = pacienteAtualizar.Cpf,
+                    Telefone = pacienteAtualizar.Telefone
+                };
+
+                paciente.Data = novoPaciente;
+                await _repository.UpdateAsync(paciente);
+
+                resposta.Message = "Dado do Paciente atualizado";
+                resposta.Status = true;
+                resposta.Data = novoPaciente;
+
+                return Ok(resposta);
+
+            }catch(Exception err)
+            {
+                resposta.Message = err.Message;
+                resposta.Status = false;
+                return resposta;
+            }
+        }
     }
 }
