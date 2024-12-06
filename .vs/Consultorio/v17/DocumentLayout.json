@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\henri\\source\\repos\\Consultorio\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|c:\\users\\henri\\source\\repos\\consultorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|c:\\users\\henri\\source\\repos\\consultorio\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|solutionrelative:controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|c:\\users\\henri\\source\\repos\\consultorio\\repositories\\pacientes\\pacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|solutionrelative:repositories\\pacientes\\pacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|c:\\users\\henri\\source\\repos\\consultorio\\response\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|solutionrelative:response\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|c:\\users\\henri\\source\\repos\\consultorio\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|solutionrelative:repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|c:\\users\\henri\\source\\repos\\consultorio\\service\\pacienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|solutionrelative:service\\pacienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|c:\\users\\henri\\source\\repos\\consultorio\\dtos\\pacientes\\pacienteatualizardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|solutionrelative:dtos\\pacientes\\pacienteatualizardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|c:\\users\\henri\\source\\repos\\consultorio\\dtos\\pacientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|solutionrelative:dtos\\pacientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|c:\\users\\henri\\source\\repos\\consultorio\\repositories\\interfaces\\pacientes\\ipacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|solutionrelative:repositories\\interfaces\\pacientes\\ipacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|c:\\users\\henri\\source\\repos\\consultorio\\interfaces\\ipacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|solutionrelative:interfaces\\ipacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|c:\\users\\henri\\source\\repos\\consultorio\\repositories\\pacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|solutionrelative:repositories\\pacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|c:\\users\\henri\\source\\repos\\consultorio\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|solutionrelative:models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|c:\\users\\henri\\source\\repos\\consultorio\\dtos\\pacientes\\pacientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|solutionrelative:dtos\\pacientes\\pacientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|c:\\users\\henri\\source\\repos\\consultorio\\response\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|solutionrelative:response\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,105 +50,106 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BaseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\Repositories\\BaseRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\BaseRepository.cs",
-              "ToolTip": "C:\\Users\\henri\\source\\repos\\Consultorio\\Repositories\\BaseRepository.cs",
-              "RelativeToolTip": "Repositories\\BaseRepository.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAawBQAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T00:21:36.227Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PacienteController.cs",
-              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\Controllers\\PacienteController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PacienteController.cs",
-              "ToolTip": "C:\\Users\\henri\\source\\repos\\Consultorio\\Controllers\\PacienteController.cs",
-              "RelativeToolTip": "Controllers\\PacienteController.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAQwGAAAAAjAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\henri\\source\\repos\\Consultorio\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T00:08:56.733Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PacienteAtualizarDTO.cs",
-              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\DTOs\\Pacientes\\PacienteAtualizarDTO.cs",
-              "RelativeDocumentMoniker": "DTOs\\Pacientes\\PacienteAtualizarDTO.cs",
-              "ToolTip": "C:\\Users\\henri\\source\\repos\\Consultorio\\DTOs\\Pacientes\\PacienteAtualizarDTO.cs",
-              "RelativeToolTip": "DTOs\\Pacientes\\PacienteAtualizarDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T00:07:19.242Z",
+              "WhenOpened": "2024-12-06T21:48:02.524Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PacienteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\Repositories\\Pacientes\\PacienteRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Pacientes\\PacienteRepository.cs",
-              "ToolTip": "C:\\Users\\henri\\source\\repos\\Consultorio\\Repositories\\Pacientes\\PacienteRepository.cs",
-              "RelativeToolTip": "Repositories\\Pacientes\\PacienteRepository.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAuwCwAAAAnAAAAAAAAAA==",
+              "Title": "PacienteController.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\Controllers\\PacienteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PacienteController.cs",
+              "ToolTip": "C:\\Users\\henri\\source\\repos\\Consultorio\\Controllers\\PacienteController.cs",
+              "RelativeToolTip": "Controllers\\PacienteController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T23:18:32.774Z",
+              "WhenOpened": "2024-12-06T21:36:20.585Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IPacienteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\Repositories\\Interfaces\\Pacientes\\IPacienteRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Interfaces\\Pacientes\\IPacienteRepository.cs",
-              "ToolTip": "C:\\Users\\henri\\source\\repos\\Consultorio\\Repositories\\Interfaces\\Pacientes\\IPacienteRepository.cs",
-              "RelativeToolTip": "Repositories\\Interfaces\\Pacientes\\IPacienteRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "PacienteService.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\Service\\PacienteService.cs",
+              "RelativeDocumentMoniker": "Service\\PacienteService.cs",
+              "ToolTip": "C:\\Users\\henri\\source\\repos\\Consultorio\\Service\\PacienteService.cs",
+              "RelativeToolTip": "Service\\PacienteService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwBgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T23:16:37.498Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Response.cs",
-              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\Response\\Response.cs",
-              "RelativeDocumentMoniker": "Response\\Response.cs",
-              "ToolTip": "C:\\Users\\henri\\source\\repos\\Consultorio\\Response\\Response.cs",
-              "RelativeToolTip": "Response\\Response.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T23:13:58.543Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Paciente.cs",
-              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\Models\\Paciente.cs",
-              "RelativeDocumentMoniker": "Models\\Paciente.cs",
-              "ToolTip": "C:\\Users\\henri\\source\\repos\\Consultorio\\Models\\Paciente.cs",
-              "RelativeToolTip": "Models\\Paciente.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAcAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T21:17:29.504Z",
+              "WhenOpened": "2024-12-06T21:25:16.664Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "PacienteDTO.cs",
-              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\DTOs\\Pacientes\\PacienteDTO.cs",
-              "RelativeDocumentMoniker": "DTOs\\Pacientes\\PacienteDTO.cs",
-              "ToolTip": "C:\\Users\\henri\\source\\repos\\Consultorio\\DTOs\\Pacientes\\PacienteDTO.cs",
-              "RelativeToolTip": "DTOs\\Pacientes\\PacienteDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Title": "PacienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\Repositories\\PacienteRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PacienteRepository.cs",
+              "ToolTip": "C:\\Users\\henri\\source\\repos\\Consultorio\\Repositories\\PacienteRepository.cs",
+              "RelativeToolTip": "Repositories\\PacienteRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwBkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T21:17:13.537Z",
+              "WhenOpened": "2024-12-06T21:07:16.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPacienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\Interfaces\\IPacienteRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IPacienteRepository.cs",
+              "ToolTip": "C:\\Users\\henri\\source\\repos\\Consultorio\\Interfaces\\IPacienteRepository.cs",
+              "RelativeToolTip": "Interfaces\\IPacienteRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T21:04:47.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\Models\\Paciente.cs",
+              "RelativeDocumentMoniker": "Models\\Paciente.cs",
+              "ToolTip": "C:\\Users\\henri\\source\\repos\\Consultorio\\Models\\Paciente.cs",
+              "RelativeToolTip": "Models\\Paciente.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T21:03:39.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PacienteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\DTOs\\PacienteDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\PacienteDTO.cs",
+              "ToolTip": "C:\\Users\\henri\\source\\repos\\Consultorio\\DTOs\\PacienteDTO.cs",
+              "RelativeToolTip": "DTOs\\PacienteDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T21:03:22.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\Response\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Response\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\henri\\source\\repos\\Consultorio\\Response\\ApiResponse.cs",
+              "RelativeToolTip": "Response\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T23:13:58.543Z",
               "EditorCaption": ""
             }
           ]
