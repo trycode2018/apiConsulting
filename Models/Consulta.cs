@@ -1,5 +1,5 @@
 ﻿namespace Consultorio.Models
-{
+{ 
     public class Consulta
     {
         public int Id { get; set; }

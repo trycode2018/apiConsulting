@@ -58,8 +58,7 @@
               "RelativeToolTip": "Controllers\\EspecialidadeController.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T20:01:27.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T20:01:27.926Z"
             },
             {
               "$type": "Document",
@@ -69,7 +68,7 @@
               "RelativeDocumentMoniker": "Controllers\\ConsultaController.cs",
               "ToolTip": "C:\\Users\\henri\\source\\repos\\Consultorio\\Controllers\\ConsultaController.cs",
               "RelativeToolTip": "Controllers\\ConsultaController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAA2wBwAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-07T19:21:50.032Z",
               "EditorCaption": ""
@@ -84,8 +83,7 @@
               "RelativeToolTip": "Service\\ConsultaService.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAAkwEgAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T19:10:56.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T19:10:56.316Z"
             },
             {
               "$type": "Document",
@@ -97,8 +95,7 @@
               "RelativeToolTip": "Interfaces\\IConsultaService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T19:09:46.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T19:09:46.446Z"
             },
             {
               "$type": "Document",
@@ -110,8 +107,7 @@
               "RelativeToolTip": "Repositories\\ConsultaRepository.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwCkAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T19:03:26.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T19:03:26.531Z"
             },
             {
               "$type": "Document",
@@ -123,8 +119,7 @@
               "RelativeToolTip": "Interfaces\\IConsultaRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T19:01:59.158Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T19:01:59.158Z"
             },
             {
               "$type": "Document",
@@ -136,8 +131,7 @@
               "RelativeToolTip": "DTOs\\ConsultaDTO.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T18:57:56.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T18:57:56.014Z"
             },
             {
               "$type": "Document",
@@ -149,8 +143,7 @@
               "RelativeToolTip": "Models\\Consulta.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T18:57:39.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T18:57:39.272Z"
             }
           ]
         }

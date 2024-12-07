@@ -7,7 +7,7 @@ using Consultorio.DTOs;
 namespace Consultorio.Controllers
 {
     [Route("api/[controller]")]
-    [ApiController]
+    [ApiController] 
     public class ConsultaController : ControllerBase
     {
         private readonly IConsultaService _service;
