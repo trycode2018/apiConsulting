@@ -14,7 +14,8 @@ builder.Services.AddControllers();
 
 builder.Services.AddScoped<IPacienteRepository,PacienteRepository>();
 builder.Services.AddScoped<IPacienteService,PacienteService>();
-
+builder.Services.AddScoped<IProfissionalRepository, ProfissionalRepository>();
+builder.Services.AddScoped<IProfissionalService,ProfissionalService>();
 
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(
