@@ -10,6 +10,7 @@ namespace Consultorio.Data
         public DbSet<Paciente> Paciente { get; set; }
         public DbSet<Especialidade> Especialidade { get; set; }
         public DbSet<Profissional> Profissional { get; set; }
+        public DbSet<ProfissionalEspecialidade> ProfissionalEspecialidades { get; set; }
         public AppDbContext(DbContextOptions options) : base(options)
         {}
         

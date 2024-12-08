@@ -9,5 +9,7 @@ namespace Consultorio.Interfaces
         Task AddAsync(Profissional profissional);
         Task UpdateAsync(Profissional profissional);
         Task DeleteAsync(int id);
+        Task<ProfissionalEspecialidade> GetProfissionalEspecialidade(int profissionalId,int especialidadeId);
+        Task AddEspecialidade(ProfissionalEspecialidade especialidade);
     }
 }

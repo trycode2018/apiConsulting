@@ -20,6 +20,16 @@ namespace Consultorio.Service
             await _repository.AddAsync(profissional);
         }
 
+        public async Task AddEspecialidade(ProfissionalEspecialidadeDTO especialidadeDTO)
+        {
+            var profissionalespecialidade = new ProfissionalEspecialidade
+            {
+                ProfissionalId = especialidadeDTO.ProfissionalId,
+                EspecialidadeId = especialidadeDTO.EspecialidadeId
+            };
+            await _repository.AddEspecialidade(profissionalespecialidade);
+        }
+
         public async Task DeleteAsync(int id)
         {
             await _repository.DeleteAsync(id);
@@ -31,7 +41,8 @@ namespace Consultorio.Service
             return profissionais.Select(p => new ProfissionalDTO
             {
                 Nome = p.Nome,
-                Ativo= p.Ativo
+                Ativo= p.Ativo,
+                //Consultas = p.Consultas,
             });
         }
 
@@ -43,6 +54,17 @@ namespace Consultorio.Service
                 Nome = profissional.Nome,
                 Ativo = profissional.Ativo
             };
+        }
+
+        public async Task<ProfissionalEspecialidadeDTO> GetProfissionalEspecialidade(int profissionalId, int especialidadeId)
+        {
+            var model = await _repository.GetProfissionalEspecialidade(profissionalId, especialidadeId);
+            return new ProfissionalEspecialidadeDTO
+            {
+                EspecialidadeId = model.EspecialidadeId,
+                ProfissionalId = model.ProfissionalId
+            };
+
         }
 
         public async Task UpdateAsync(int id, ProfissionalDTO profissionalDTO)

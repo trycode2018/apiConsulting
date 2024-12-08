@@ -1,5 +1,6 @@
 ﻿using Consultorio.DTOs;
 using Consultorio.Interfaces;
+using Consultorio.Models;
 using Consultorio.Response;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -39,6 +40,14 @@ namespace Consultorio.Controllers
             return CreatedAtAction(nameof(GetById),
                 new {id = profissionalDTO.Nome},
                 new ApiResponse(await _service.GetAllAsync(),"Profissional criado com exito"));
+        }
+        [HttpPost("AddProfissionalEspecialidade")]
+        public async Task<IActionResult> PostProfissionalEspecialidade(ProfissionalEspecialidadeDTO model)
+        {
+            await _service.AddEspecialidade(model);
+            return Ok(new ApiResponse(
+                await _service.GetProfissionalEspecialidade(model.ProfissionalId,model.EspecialidadeId),
+                "Especialidade associada ao profissional"));
         }
 
         [HttpPut("{id}")]

@@ -2,7 +2,9 @@ using Consultorio.Data;
 using Consultorio.Interfaces;
 using Consultorio.Repositories;
 using Consultorio.Service;
+using Microsoft.AspNetCore.Http.Json;
 using Microsoft.EntityFrameworkCore;
+using System.Text.Json.Serialization;
 
 var builder = WebApplication.CreateBuilder(args);
 

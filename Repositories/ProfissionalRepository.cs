@@ -16,6 +16,12 @@ namespace Consultorio.Repositories
             await _context.SaveChangesAsync();
         }
 
+        public async Task AddEspecialidade(ProfissionalEspecialidade especialidade)
+        {
+            await _context.ProfissionalEspecialidades.AddAsync(especialidade);
+            await _context.SaveChangesAsync();
+        }
+
         public async Task DeleteAsync(int id)
         {
             var profissional = await GetByIdAsync(id);
@@ -28,7 +34,8 @@ namespace Consultorio.Repositories
 
         public async Task<IEnumerable<Profissional>> GetAllAsync()
         {
-            return await _context.Profissional.ToListAsync();
+            return await _context.Profissional.Include(x=>x.Consultas)
+                .ToListAsync();
         }
 
         public async Task<Profissional> GetByIdAsync(int id)
@@ -38,6 +45,15 @@ namespace Consultorio.Repositories
                 return profissional;
 
             return new Profissional { };
+        }
+
+        public async Task<ProfissionalEspecialidade> GetProfissionalEspecialidade(int profissionalId, int especialidadeId)
+        {
+            var model = await _context.ProfissionalEspecialidades
+                .Where(x => x.ProfissionalId == profissionalId && x.EspecialidadeId == especialidadeId)
+                .FirstOrDefaultAsync();
+                return model;
+            
         }
 
         public async Task UpdateAsync(Profissional profissional)
