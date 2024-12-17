@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\henri\\source\\repos\\Consultorio\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|c:\\users\\henri\\source\\repos\\consultorio\\response\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|solutionrelative:response\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|c:\\users\\henri\\source\\repos\\consultorio\\service\\consultaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|solutionrelative:service\\consultaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|c:\\users\\henri\\source\\repos\\consultorio\\repositories\\consultarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|solutionrelative:repositories\\consultarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|c:\\users\\henri\\source\\repos\\consultorio\\controllers\\consultacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|solutionrelative:controllers\\consultacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|c:\\users\\henri\\source\\repos\\consultorio\\dtos\\consultadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|solutionrelative:dtos\\consultadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|c:\\users\\henri\\source\\repos\\consultorio\\service\\profissionalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9343830B-B701-4BE3-B64C-7CD319D0516F}|Consultorio.csproj|solutionrelative:service\\profissionalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +58,72 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\Response\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Response\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\henri\\source\\repos\\Consultorio\\Response\\ApiResponse.cs",
+              "RelativeToolTip": "Response\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:56:30.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsultaService.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\Service\\ConsultaService.cs",
+              "RelativeDocumentMoniker": "Service\\ConsultaService.cs",
+              "ToolTip": "C:\\Users\\henri\\source\\repos\\Consultorio\\Service\\ConsultaService.cs",
+              "RelativeToolTip": "Service\\ConsultaService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:56:20.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsultaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\Repositories\\ConsultaRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ConsultaRepository.cs",
+              "ToolTip": "C:\\Users\\henri\\source\\repos\\Consultorio\\Repositories\\ConsultaRepository.cs",
+              "RelativeToolTip": "Repositories\\ConsultaRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:54:28.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsultaController.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\Controllers\\ConsultaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ConsultaController.cs",
+              "ToolTip": "C:\\Users\\henri\\source\\repos\\Consultorio\\Controllers\\ConsultaController.cs",
+              "RelativeToolTip": "Controllers\\ConsultaController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:54:10.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "ConsultaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\DTOs\\ConsultaDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\ConsultaDTO.cs",
+              "ToolTip": "C:\\Users\\henri\\source\\repos\\Consultorio\\DTOs\\ConsultaDTO.cs",
+              "RelativeToolTip": "DTOs\\ConsultaDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:53:52.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -46,12 +131,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAcwA4AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T01:04:33.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T01:04:33.78Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "ProfissionalRepository.cs",
               "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\Repositories\\ProfissionalRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\ProfissionalRepository.cs",
@@ -59,12 +143,11 @@
               "RelativeToolTip": "Repositories\\ProfissionalRepository.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAUwCYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T00:40:42.623Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T00:40:42.623Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Profissional.cs",
               "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\Models\\Profissional.cs",
               "RelativeDocumentMoniker": "Models\\Profissional.cs",
@@ -72,12 +155,11 @@
               "RelativeToolTip": "Models\\Profissional.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAowAgAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T00:39:06.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T00:39:06.318Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "ProfissionalDTO.cs",
               "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\DTOs\\ProfissionalDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\ProfissionalDTO.cs",
@@ -85,12 +167,11 @@
               "RelativeToolTip": "DTOs\\ProfissionalDTO.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAywAkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T00:38:32.823Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T00:38:32.823Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "ProfissionalService.cs",
               "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\Consultorio\\Service\\ProfissionalService.cs",
               "RelativeDocumentMoniker": "Service\\ProfissionalService.cs",
